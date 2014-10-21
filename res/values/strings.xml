@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lose or Pay</string>
+    <string name="title_section1">How does it work?</string>
+    <string name="title_section2">Sign up</string>
+    <string name="title_section3">Stats</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="lose_weight_get_paid">LOSE Weight and get paid doing it
+Losing weight is hard. And the more you have to lose, the harder it is. After three weeks of fasting, it is just too tempting to celebrate the progress you\'ve made during the past three weeks by treating yourself to a piece of cheesecake or the delicious burger you\'ve been keeping at a safe distance.
+STOP right there! Losing weight only works if you consistently stick to your goal. It doesn\'t matter how much weight you lose week to week, it only matters that you constantly lose weight week after week and don\'t fall back into your old habits. We help you to continuously make the right choice by making it not only fun, but perhaps even profitable.</string>
+
+</resources>
